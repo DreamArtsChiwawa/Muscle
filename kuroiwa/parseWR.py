@@ -95,8 +95,5 @@ ret = {
 		]
 	
 }
-#print json.dumps(ret, ensure_ascii=False, indent=4, sort_keys=True)
+print json.dumps(ret, ensure_ascii=False, indent=4, sort_keys=True)
 
-f = open(filename + ".json", 'w')
-f.write(json.dumps(ret, ensure_ascii=False, indent=4, sort_keys=True))
-f.close()
