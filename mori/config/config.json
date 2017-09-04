@@ -1,0 +1,6 @@
+{
+	"save_file_path" : "savedata/honban03/h03",
+	"input_vector_size" : 11,
+	"output_vector_size" : 1,
+	"indents" : ["共有", "修正", "調査","練習","計画","対応","消化","構築","設計","要件定義","None"]
+}
